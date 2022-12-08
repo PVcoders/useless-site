@@ -1,0 +1,38 @@
+body {
+    background-color: #807006; /* palette https://colorhunt.co/palette/0000003e065f700b978e05c2 */
+    color: #FFFFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: #12CCB9;
+    color: #ffffff;
+    font-size: 32px;
+    border-radius: 12px;
+}
+
+img {
+    border-style: solid;   
+    border-color: #12CCB9;
+    border-width: 10px;
+    border-radius: 10px;
+}
+
+.suggestion {
+    border-style: solid;
+    border-color: #12CCB9;
+    border-width: 5px;
+    border-spacing: 10px;
+    width: 20%;
+}
+
+.redacted {
+    color: #ff0000;
+    background-color: #FFBC7A;
+}
+
+#fortnite {
+    color: #00ff00;
+    font-weight: bolder;
+    font-size: 40px;
+}
