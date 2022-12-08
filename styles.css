@@ -1,11 +1,11 @@
 body {
-    background-color: #000000; /* palette https://colorhunt.co/palette/0000003e065f700b978e05c2 */
+    background-color: #807006; /* palette https://colorhunt.co/palette/0000003e065f700b978e05c2 */
     color: #FFFFFF;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 button {
-    background-color: #8E05C2;
+    background-color: #12CCB9;
     color: #ffffff;
     font-size: 32px;
     border-radius: 12px;
@@ -13,21 +13,21 @@ button {
 
 img {
     border-style: solid;   
-    border-color: #8E05C2;
+    border-color: #12CCB9;
     border-width: 10px;
     border-radius: 10px;
 }
 
 .suggestion {
     border-style: solid;
-    border-color: #8E05C2;
+    border-color: #12CCB9;
     border-width: 5px;
     border-spacing: 10px;
 }
 
 .redacted {
     color: #ff0000;
-    background-color: #ff7f7f;
+    background-color: #FFBC7A;
 }
 
 #fortnite {
