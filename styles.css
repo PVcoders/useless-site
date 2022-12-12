@@ -1,3 +1,5 @@
+/*                      TAGS                */
+
 body {
     background-color: #000; /* palette https://colorhunt.co/palette/0000003e065f700b978e05c2 */
     color: #fff;
@@ -17,6 +19,8 @@ img {
     border-radius: 10px;
 }
 
+/*                      CLASSES               */
+
 .suggestion {
     border-style: solid;
     border-color: #007fff;
@@ -29,6 +33,13 @@ img {
     color: #ff0000;
     background-color: #FFBC7A;
 }
+
+.rick-roll{
+    width: 50%;
+    height: 50%;
+}
+
+/*                    IDS        */
 
 #fortnite {
     color: #007fff;
