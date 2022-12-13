@@ -1,9 +1,14 @@
 /*                      TAGS                */
 
+* {
+    padding: 1%;
+}
+
 body {
     background-color: #000; /* palette https://colorhunt.co/palette/0000003e065f700b978e05c2 */
     color: #fff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0.5% 2%;
 }
 
 button {
@@ -37,6 +42,11 @@ img {
 .rick-roll{
     width: 50%;
     height: 50%;
+}
+
+.huge-icon {
+    font-size: 10rem;
+    color:greenyellow;
 }
 
 /*                    IDS        */
