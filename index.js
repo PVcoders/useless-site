@@ -1,8 +1,7 @@
 function No() {
-    $("#o1").html("<p>get scamed lol!!!!</p>") 
+    $("#o1").html("<h3>get scamed lol!!!!</h3>") 
 }
 
 function venison() {
-    console.log("ygifudhhby89ifd")
     $("#deer").html("<h1>+1 Raw Venison</h1>")
 }
