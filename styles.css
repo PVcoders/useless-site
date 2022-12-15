@@ -1,7 +1,7 @@
 /*                      TAGS                */
 
 * {
-    padding: 0.5%;
+    margin: 0.75% 1px;
 }
 
 body {
@@ -47,7 +47,7 @@ img {
 
 .huge-icon {
     font-size: 10rem;
-    color:greenyellow;
+    color: greenyellow;
 }
 
 /*                    IDS        */
