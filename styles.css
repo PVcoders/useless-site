@@ -1,7 +1,7 @@
 /*                      TAGS                */
 
 * {
-    padding: 1%;
+    padding: 0.5%;
 }
 
 body {
@@ -15,6 +15,7 @@ button {
     background-color: #007fff;
     font-size: 32px;
     border-radius: 12px;
+    color: white;
 }
 
 img {
@@ -55,4 +56,21 @@ img {
     color: #007fff;
     font-weight: bolder;
     font-size: 40px;
+}
+
+#videoslink {
+    color: #007ffff; /*the code works fine vscode is just being a brat*/
+    font-size: 40px;
+    border-style: solid;
+    border-color: #007ffff;
+    border-width: 10px;
+}
+
+#videoslink:hover {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#videoslink:visited {
+    color: #007fff;
 }
