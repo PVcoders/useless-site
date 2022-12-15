@@ -10,9 +10,13 @@ function generateVid() {
         "https://www.youtube.com/shorts/fWlYGVXB3PE", // leaked scarlet and violet gameplay
         "https://www.youtube.com/watch?v=plw2hFHnztw", // the eeper
         "https://www.youtube.com/watch?v=14Se6xJTBpQ", // MAN
-        "https://www.youtube.com/watch?v=sqyHAbUaaSQ", //think about it! (EPILEPSY)
-        "https://www.youtube.com/watch?v=3-PMv_vzWwM", //revenge
-        "https://www.youtube.com/watch?v=K3_5leIaaVo", //Oh the misery
+        "https://www.youtube.com/watch?v=sqyHAbUaaSQ", // think about it! (EPILEPSY)
+        "https://www.youtube.com/watch?v=3-PMv_vzWwM", // revenge
+        "https://www.youtube.com/watch?v=K3_5leIaaVo", // Oh the misery
+        "https://www.youtube.com/watch?v=1hPxGmTGarM", // cat
+        "https://www.youtube.com/watch?v=NHZs1AKBbAE", // fire
+        "https://www.youtube.com/watch?v=REapSOM5Nrk", // he is speaking facts
+        "https://www.youtube.com/watch?v=jJVI5zKpLBs", // that moment when
     ];
 
     num = Math.floor(Math.random() * websites.length);
